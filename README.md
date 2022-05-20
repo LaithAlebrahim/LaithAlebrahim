@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @LaithAlebrahim
-- 👀 I’m interested in Programming front-end (React-Javascript)
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m  front-end programmer(React-Javascript-Html5-CSS3)
+- Intermediate problem solver
+- C++ + java (oop)
 - 📫 How to reach me
 https://www.facebook.com/laith.alebrahim.9
+Email: shitanhoms12@gmail.com
+Telegram:@friday234
 
 <!---
 LaithAlebrahim/LaithAlebrahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
