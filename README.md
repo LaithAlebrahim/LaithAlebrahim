@@ -4,7 +4,7 @@
 - C++ + java (oop)
 - 📫 How to reach me
 https://www.facebook.com/laith.alebrahim.9
-Email: shitanhoms12@gmail.com
+Email: shitanhoms12@gmail.com/ laith.alebrahim@bk.ru
 Telegram:@friday234
 
 <!---
