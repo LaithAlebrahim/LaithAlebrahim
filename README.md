@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LaithAlebrahim
-- 👀 I’m  front-end developer(React-Javascript-Html5-CSS3)
+- 👀 I’m  front-end developer(Reactjs-Html5-CSS3)
 - Intermediate problem solver
 - C++ + java (oop)
 - 📫 How to reach me
