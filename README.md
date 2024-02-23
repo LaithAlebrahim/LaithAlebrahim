@@ -10,7 +10,8 @@
 - 📫 How to reach me
 **https://www.facebook.com/laith.alebrahim.9**
 **Email: laith.alebrahim@bk.ru**
-**Telegram:@friday234**
+
+**Telegram: @friday234**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
