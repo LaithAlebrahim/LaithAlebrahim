@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Frontend Development**
 
-- 📫 How to reach me **laith.alebrahim@bk.ru**
+- 📫 How to reach me **laith.alebrahim@bk.ru** "TELEGRAM:@friday234
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
