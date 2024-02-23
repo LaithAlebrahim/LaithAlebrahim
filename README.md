@@ -1,14 +1,5 @@
-- 👋 Hi, I’m @LaithAlebrahim
-- 👀 I’m  front-end developer(Angular,ReactJS-Html5-CSS3)
-- Intermediate problem solver
-- C++ + java (oop)
-- 📫 How to reach me
-https://www.facebook.com/laith.alebrahim.9
-Email: laith.alebrahim@bk.ru
-Telegram:@friday234
-
 <h1 align="center">Hi 👋, I'm Laith Alebrahim</h1>
-<h3 align="center">a passionate in software engineer</h3>
+<h3 align="center">A passionate in software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LaithAlebrahim&label=Profile%20views&color=0e75b6&style=flat" alt="LaithAlebrahim" /> </p>
 
@@ -16,7 +7,7 @@ Telegram:@friday234
 
 - 💬 Ask me about **Frontend Development**
 
-- 📫 How to reach me **haidarjbeily76@gmail.com**
+- 📫 How to reach me
 **https://www.facebook.com/laith.alebrahim.9**
 **Email: laith.alebrahim@bk.ru**
 **Telegram:@friday234**
